@@ -1,4 +1,4 @@
-package edu.wsb;
+package edu.wsb.pierwszeSpotkanie;
 
 public class Main {
 
